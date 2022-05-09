@@ -1,0 +1,21 @@
+●git 1주차
+프로그래밍 학습 팁
+http://bit.ly/learn-programming-tip
+
+깃, 소스트리 다운
+소스트리 > author name에 깃허브 username, author email address: 깃허브 계정 메일
+깃허브 > https://github.com/settings/tokens 접속(토큰 세팅)
+> Generate new token > note: sourcetree > repo, workflow, admin:org, admin:public_key, gist, user, delete_repo 체크
+토큰 생성 후 토큰 값 복사
+소스트리 한국어 설정후 재시작
+> 도구  > 옵션 > 인증 > 호스팅 서비스: 깃허브, 인증:Basic, 사용자명: 깃허브 이름
+
+커밋: 스냅샷, 현재 시점을 저장하고 비교 가능
+
+원격연결
+원격 클릭 > 원격 이름: origin, url/경로: 깃헙 주소 복사
+
+클론 > 초기 세팅
+
+정보글
+https://github.com/siyoungoh/til
