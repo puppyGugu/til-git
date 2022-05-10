@@ -9,7 +9,6 @@ http://bit.ly/learn-programming-tip
 토큰 생성 후 토큰 값 복사
 소스트리 한국어 설정후 재시작
 > 도구  > 옵션 > 인증 > 호스팅 서비스: 깃허브, 인증:Basic, 사용자명: 깃허브 이름
-★개인 코드: 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
 
 커밋: 스냅샷, 현재 시점을 저장하고 비교 가능
 
